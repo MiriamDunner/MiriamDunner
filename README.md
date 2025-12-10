@@ -62,7 +62,7 @@ A client-side playground of JavaScript games built with modular logic, animation
 
 ---
 
-### 👓 [Online Eyewear Shop — React + Node.js](https://github.com/MiriamDunner/Glasses-store)
+### 🎨 [Fashion Store Queue Management — .NET Core + SQL](https://github.com/MiriamDunner/-ASP.NET-Core-Web-API-project)
 Full-stack e-commerce platform featuring authentication, shopping cart, order processing, and role-based permissions.  
 **Tech:** React • Redux Toolkit • Node.js • Express • Vite
 
