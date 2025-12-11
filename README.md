@@ -79,6 +79,12 @@ A scheduling and appointment management system for a fashion store, built with r
 **Tech:** .NET Core • Entity Framework • SQL Server  
 
 ---
+📊 [Sales Analysis -Python](https://github.com/MiriamDunner/sales-analysis)
+
+A full sales-data cleaning, merging and insights-generation project using Python.
+Tech: Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
+
+---
 
 ## 🌐 Languages  
 🇮🇱 Hebrew — Native  
