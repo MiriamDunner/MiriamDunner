@@ -26,7 +26,7 @@ Creative problem-solver, fast self-learner, and team player with hands-on experi
 ### **Languages, Frameworks & Tools**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,angular,nodejs,java,dotnet,cs,cpp,html,css,tailwind,mongodb,mysql,git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,angular,nodejs,java,dotnet,cs,c,cpp,html,css,tailwind,mongodb,mysql,git,docker,linux" />
 </p>
 
 ---
