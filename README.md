@@ -86,7 +86,7 @@ Tech: Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Noteboo
 
 ---
 
-### 💡 [Expense Splitting Web Application](https://github.com/MiriamDunner/expense-splitting)  
+### 💡 [Expense Splitting Web Application](https://github.com/MiriamDunner/debt-management-app) 
 A modern, responsive web application for splitting expenses among participants, featuring automatic email notifications, fair-share calculations, and optimized settlement transactions. Built with React, Tailwind CSS, and FastAPI for a smooth, user-friendly experience.  
 Tech: React • Tailwind CSS • FastAPI • Python • SMTP
 
