@@ -87,7 +87,8 @@ Tech: Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Noteboo
 ---
 
 ### 💲 [Expense Splitting Web Application](https://github.com/MiriamDunner/expense-splitting-app.git) 
-🔗 **Live Demo:** https://v0-expense-splitting-app-xi.vercel.app  
+🌐 **Live Application** https://v0-expense-splitting-app-xi.vercel.app  
+
 
 A modern multi-user expense management platform enabling participants to create shared events, split costs intelligently, and communicate via an integrated event-based chat.  
 Built using AI-assisted development (v0) while designing the architecture, validation logic, and system structure independently.  
